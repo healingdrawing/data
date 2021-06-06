@@ -1,4 +1,7 @@
-﻿--------------------------------------------------
+﻿## pngNamesCollector
+- collect (folder level only) file names with extension, into list.text in form of "name1","name2". Supported filter for extensions ".+.png+jpg" -> no extension + png + jpg.
+
+--------------------------------------------------
 
 english description bottom
 

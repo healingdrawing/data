@@ -32,7 +32,7 @@ print("list.txt file will collect files with next extensions\n" +
 
 try:
     print("------------------ start ----------------------")
-    print(datetime.datetime.now().time())
+    # print(datetime.datetime.now().time())
     fnames = []
     for file in os.listdir(mydir):
         fext = file.split(".")
@@ -47,7 +47,7 @@ try:
                    for i in range(len(fnames)))
     txt.close()
 
-    print(datetime.datetime.now().time())
+    # print(datetime.datetime.now().time())
     print("------------------ end ----------------------")
 
 except:

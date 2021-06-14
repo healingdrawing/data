@@ -1,4 +1,7 @@
-﻿## pngNamesCollector
+﻿## pngRepeaterPlusNumber
+- repeat one file number of times, using number incremention suffix, on script folder level. No checking for conflicts etc.
+
+## pngNamesCollector
 - collect (folder level only) file names with extension, into list.text in form of "name1","name2". Supported filter for extensions ".+.png+jpg" -> no extension + png + jpg.
 
 --------------------------------------------------

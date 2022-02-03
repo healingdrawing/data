@@ -1,0 +1,1 @@
+python c.py 2 /mnt/sda3/development/codehost/data/trash/_VT/z2/sourcef /mnt/sda3/development/codehost/data/trash/_VT/z2/targetf /mnt/sda3/development/codehost/data/trash/_VT/z2/log

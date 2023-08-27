@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.74331525"
-     inkscape:cx="300.0073"
-     inkscape:cy="236.77706"
+     inkscape:zoom="2.973261"
+     inkscape:cx="195.07201"
+     inkscape:cy="781.63337"
      inkscape:window-width="1536"
      inkscape:window-height="840"
      inkscape:window-x="0"
@@ -39,6 +39,102 @@
      showguides="true" />
   <defs
      id="defs1">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect89"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0,3.4958569"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect88"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0,3.4958569"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect87"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0,3.4958569"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect86"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0,3.4958569"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect85"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0,3.4958569"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect84"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0,3.4958569"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect8"
@@ -614,6 +710,114 @@
          x="429.21481"
          y="590.67267"
          id="tspan8">did i v +ed i would v ?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:21.3333px;line-height:1.2;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-decoration-color:#000000;word-spacing:-4px;fill:#ededed;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+       x="17.779438"
+       y="633.28265"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         x="17.779438"
+         y="633.28265">v - verb . mv - modal verb</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="658.88263"
+         id="tspan10">mv + not = negative</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="684.4826"
+         id="tspan67">must not v</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="710.08252"
+         id="tspan68" /><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="735.6825"
+         id="tspan11">Some mv are depend on time</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="761.28247"
+         id="tspan69">now    past     future</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="786.88245"
+         id="tspan15">can    could    will be able to</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="812.48236"
+         id="tspan16">may    might    will be</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="838.08234"
+         id="tspan70">                   allowed/permitted</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="863.68231"
+         id="tspan72">                   to</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="889.28229"
+         id="tspan29">must  had to    will have to</tspan><tspan
+         sodipodi:role="line"
+         x="17.779438"
+         y="914.8822"
+         id="tspan30" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:21.3333px;line-height:1.2;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-decoration-color:#000000;word-spacing:-4px;fill:#ededed;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+       x="432.04959"
+       y="631.56952"
+       id="text73"><tspan
+         sodipodi:role="line"
+         id="tspan73"
+         x="432.04959"
+         y="631.56952">mv short form/unofficial</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="657.16949"
+         id="tspan74"> can not -&gt; can't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="682.76947"
+         id="tspan75"> could not -&gt; couldn't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="708.36938"
+         id="tspan76"> may not -&gt; mayn't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="733.96936"
+         id="tspan77"> might not -&gt; mightn't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="759.56934"
+         id="tspan78"> must not -&gt; mustn't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="785.16931"
+         id="tspan79"> should not -&gt; shouldn't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="810.76923"
+         id="tspan80"> ought not to -&gt; oughtn't to</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="836.3692"
+         id="tspan81"> shall not -&gt; shan't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="861.96918"
+         id="tspan82"> will not -&gt; won't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="887.56915"
+         id="tspan83"> would not -&gt; wouldn't</tspan><tspan
+         sodipodi:role="line"
+         x="432.04959"
+         y="913.16907"
+         id="tspan84"> need not -&gt; needn't</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -973,11 +1177,63 @@
        cx="196.94391"
        cy="565.64929"
        r="10.707856" />
+    <circle
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.50605;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6-9-6-7-6-0-31-64-5"
+       cx="-6.7050371"
+       cy="607.24805"
+       r="10.707856" />
+    <circle
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.50605;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6-9-6-7-6-0-31-64-2"
+       cx="103.12305"
+       cy="658.74567"
+       r="10.707856" />
     <path
        style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       d="m 391.54161,493.3616 c 0,0 3.49586,0 3.49586,0 0,-4.44575 -0.37511,-11.80408 -0.87958,-20.16684 86.08169,-0.43808 182.07158,-0.96691 270.82223,-1.41888 0.54689,8.8093 0.96486,16.63212 0.96486,21.25676 0,-4.80486 0.45118,-13.06205 1.02937,-22.29104 0,0 0.0644,-1.02381 0.0644,-1.02381 2e-5,0 -1.0938,-0.006 -1.09378,-0.006 -89.0195,-0.45305 -185.38387,-0.98407 -274.40337,-1.43711 -10e-6,0 -2.31193,-0.0118 -2.31194,-0.0118 0,0 -0.15454,2.47824 -0.15454,2.47824 -0.57819,9.36519 -1.02938,17.74423 -1.02938,22.62 z"
+       d="m 391.54161,493.3616 c 0,0 3.49586,0 3.49586,0 0,-4.44575 -0.37511,-11.80408 -0.87958,-20.16684 86.08169,-0.43808 182.07158,-0.96691 270.82223,-1.41888 0.54689,8.8093 0.96486,16.63212 0.96486,21.25676 0,-4.80486 0.45118,-13.06205 1.02937,-22.29104 0,0 0.0644,-1.02381 0.0644,-1.02381 2e-5,0 -1.0938,-0.006 -1.09378,-0.006 -89.0195,-0.45305 -185.38387,-0.98407 -274.40337,-1.43711 -1e-5,0 -2.31193,-0.0118 -2.31194,-0.0118 0,0 -0.15454,2.47824 -0.15454,2.47824 -0.57819,9.36519 -1.02938,17.74423 -1.02938,22.62 z"
        id="path8"
        inkscape:path-effect="#path-effect8"
        inkscape:original-d="m 391.54161,493.3616 v -22.62 h 274.40337 v 22.29104" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect84"
+       width="38.447212"
+       height="25.523348"
+       x="108.03816"
+       y="594.53754" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect84-7"
+       width="38.447212"
+       height="25.523348"
+       x="41.917782"
+       y="697.2652" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect84-6"
+       width="38.447212"
+       height="25.523348"
+       x="394.78912"
+       y="593.64496" />
+    <path
+       style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="m -25.198523,616.57633 c 0,0 3.495857,0 3.495857,0 0,-5.61701 -0.389355,-14.98317 -0.908186,-25.59606 104.719955,-0.44078 220.854892,-0.96999 328.215352,-1.42214 0.54766,9.03502 0.96644,17.05973 0.96644,21.80185 0,-4.92218 0.45118,-13.38096 1.02937,-22.83529 0,0 0.0629,-1.02478 0.0629,-1.02478 3e-5,0 -1.09233,-0.005 -1.0923,-0.005 -107.62969,-0.45305 -224.139768,-0.98407 -331.769463,-1.43711 4e-6,0 -2.342205,-0.01 -2.342201,-0.01 0,0 -0.124284,2.47634 -0.124284,2.47634 -0.578189,11.61401 -1.029372,22.00507 -1.029372,28.05164 0,0 3.495857,0 3.495857,0 z"
+       id="path84"
+       inkscape:path-effect="#path-effect84"
+       inkscape:original-d="M -25.198523,616.57633 V 588.52469 H 306.57094 v 22.83529" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="M -25.470827,748.73044 H 352.38336"
+       id="path89" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="M 46.442404,869.39898 V 734.08733"
+       id="path90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="M 146.34931,869.76023 V 733.09969"
+       id="path91"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

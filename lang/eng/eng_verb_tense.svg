@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="2.973261"
-     inkscape:cx="195.07201"
-     inkscape:cy="781.63337"
+     inkscape:zoom="1.0512065"
+     inkscape:cx="372.90484"
+     inkscape:cy="926.55439"
      inkscape:window-width="1536"
      inkscape:window-height="840"
      inkscape:window-x="0"
@@ -378,8 +378,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="content"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:21.3333px;line-height:1.2;font-family:ARIAL;-inkscape-font-specification:ARIAL;word-spacing:-4px;fill:#ededed;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
@@ -818,12 +817,49 @@
          x="432.04959"
          y="913.16907"
          id="tspan84"> need not -&gt; needn't</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:21.3333px;line-height:1.2;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-decoration-color:#000000;word-spacing:-4px;fill:#ededed;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+       x="9.6570606"
+       y="1047.2087"
+       id="text31"><tspan
+         sodipodi:role="line"
+         x="9.6570606"
+         y="1047.2087"
+         id="tspan88">can ABCDE . may AFGI . might FG . could EFGOH? . will L</tspan><tspan
+         sodipodi:role="line"
+         x="9.6570606"
+         y="1072.8087"
+         id="tspan113">ought to N . should N . would JKO. shall E?N?</tspan><tspan
+         sodipodi:role="line"
+         x="9.6570606"
+         y="1098.4087"
+         id="tspan114">must M . have to M . be to M . need M?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:21.3333px;line-height:1.2;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Medium';text-decoration-color:#000000;word-spacing:-4px;fill:#ededed;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+       x="6.0152664"
+       y="952.66962"
+       id="text99"><tspan
+         sodipodi:role="line"
+         x="6.0152664"
+         y="952.66962"
+         id="tspan103">A мочь B уметь C разрешение D просьба E предложение F вероятно</tspan><tspan
+         sodipodi:role="line"
+         x="6.0152664"
+         y="978.26959"
+         id="tspan107">G иметь возможноть H мог I иметь разрешение J вежливое предлож.</tspan><tspan
+         sodipodi:role="line"
+         x="6.0152664"
+         y="1003.8696"
+         id="tspan104">K вежливая просьба L будет? M должен N следует O предположение</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="deco"
-     transform="translate(31.378657,19.243498)">
+     transform="translate(31.378657,19.243498)"
+     style="display:inline">
     <circle
        style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.50605;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="path6"
@@ -1196,21 +1232,112 @@
        inkscape:path-effect="#path-effect8"
        inkscape:original-d="m 391.54161,493.3616 v -22.62 h 274.40337 v 22.29104" />
     <rect
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
        id="rect84"
        width="38.447212"
        height="25.523348"
        x="108.03816"
        y="594.53754" />
     <rect
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
        id="rect84-7"
        width="38.447212"
        height="25.523348"
        x="41.917782"
        y="697.2652" />
     <rect
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5"
+       width="46.792309"
+       height="25.325512"
+       x="-24.744635"
+       y="1009.0276" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-4"
+       width="108.12361"
+       height="25.196543"
+       x="-24.795267"
+       y="1034.6249" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-4-0"
+       width="57.279495"
+       height="25.102398"
+       x="-24.633078"
+       y="1059.9503" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-4-0-1"
+       width="94.720116"
+       height="23.785591"
+       x="81.009064"
+       y="1059.9221" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2.00002;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-4-0-1-2"
+       width="67.741173"
+       height="23.785591"
+       x="223.00906"
+       y="1059.9221" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2.00002;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-4-0-1-2-0"
+       width="56.811291"
+       height="23.785591"
+       x="339.21942"
+       y="1059.9221" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-4-9"
+       width="86.039261"
+       height="24.586859"
+       x="129.62469"
+       y="1034.9214" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-4-9-8"
+       width="73.924812"
+       height="21.249481"
+       x="260.94601"
+       y="1034.9561" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-4-9-8-6"
+       width="71.744492"
+       height="24.828712"
+       x="399.02811"
+       y="1032.6602" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-7"
+       width="46.792309"
+       height="25.325512"
+       x="119.25536"
+       y="1009.0276" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-7-5"
+       width="73.809547"
+       height="26.857529"
+       x="251.57776"
+       y="1007.8865" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-7-5-4"
+       width="73.919113"
+       height="24.790297"
+       x="384.57169"
+       y="1007.6306" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none"
+       id="rect84-7-5-7-5-4-8"
+       width="61.205952"
+       height="25.024673"
+       x="568.45447"
+       y="1007.5134" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
        id="rect84-6"
        width="38.447212"
        height="25.523348"
@@ -1235,5 +1362,126 @@
        d="M 146.34931,869.76023 V 733.09969"
        id="path91"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109"
+       width="21.324013"
+       height="23.791933"
+       x="-28.983402"
+       y="913.55548"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-5"
+       width="21.324013"
+       height="23.791933"
+       x="54.594814"
+       y="914.3576"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-2"
+       width="21.324013"
+       height="23.791933"
+       x="-28.645287"
+       y="939.45758"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-7"
+       width="21.324013"
+       height="23.791933"
+       x="-28.901735"
+       y="965.48993"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-6"
+       width="21.324013"
+       height="23.791933"
+       x="152.60416"
+       y="914.25208"
+       rx="0"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-61"
+       width="21.324013"
+       height="23.791933"
+       x="208.19406"
+       y="938.89478"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-20"
+       width="21.324013"
+       height="23.791933"
+       x="208.78046"
+       y="964.9469"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-59"
+       width="21.324013"
+       height="23.791933"
+       x="314.66168"
+       y="914.18115"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-9"
+       width="21.324013"
+       height="23.791933"
+       x="318.13443"
+       y="964.93738"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-1"
+       width="21.324013"
+       height="23.791933"
+       x="438.05551"
+       y="913.92279"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-19"
+       width="21.324013"
+       height="23.791933"
+       x="278.93982"
+       y="939.75653"
+       ry="4" />
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-19-5"
+       width="21.324013"
+       height="23.791933"
+       x="516.51929"
+       y="939.75653"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-4"
+       width="21.324013"
+       height="23.791933"
+       x="428.50159"
+       y="964.75653"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-610"
+       width="21.324013"
+       height="23.791933"
+       x="614.19037"
+       y="913.84491"
+       ry="4" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect109-0"
+       width="21.324013"
+       height="23.791933"
+       x="551.55127"
+       y="965.25208"
+       ry="4" />
   </g>
 </svg>

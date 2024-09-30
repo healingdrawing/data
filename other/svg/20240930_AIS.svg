@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="552"
+   height="552"
+   viewBox="0 0 552 552.00002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   sodipodi:docname="20240930_AIS.svg"
+   inkscape:export-filename="20240930_AIS.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#3f3f3f"
+     inkscape:document-units="px"
+     labelstyle="default"
+     inkscape:zoom="0.74439562"
+     inkscape:cx="227.02982"
+     inkscape:cy="343.90315"
+     inkscape:window-width="1536"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:clip-to-page="false"
+     showguides="true"
+     guidecolor="#ffffff"
+     guideopacity="0.6">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="276"
+       originy="276"
+       spacingx="264.00001"
+       spacingy="264.00001"
+       empcolor="#e5e500"
+       empopacity="0.30196078"
+       color="#e5e500"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+    <sodipodi:guide
+       position="256.68555,250.48634"
+       orientation="0.79732366,-0.60355197"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="276,276.00003"
+       orientation="0.92135202,-0.38872929"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="276.00162,276.00389"
+       orientation="0.99227664,-0.12404462"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="276.00161,276.00387"
+       orientation="0.99227887,0.12402677"
+       id="guide10"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d3ffff;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#0039a8;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient36"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop37" />
+      <stop
+         style="stop-color:#6ebeff;stop-opacity:1;"
+         offset="0.29379791"
+         id="stop38" />
+      <stop
+         style="stop-color:#005fad;stop-opacity:1;"
+         offset="1"
+         id="stop36" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient34"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffd300;stop-opacity:1;"
+         offset="0"
+         id="stop34" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop35" />
+    </linearGradient>
+    <color-profile
+       name="Compatible-with-Adobe-RGB-1998"
+       xlink:href="file:///usr/share/color/icc/colord/AdobeRGB1998.icc"
+       id="color-profile2" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient34"
+       id="linearGradient35"
+       x1="256"
+       y1="512"
+       x2="256"
+       y2="256"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36"
+       id="radialGradient37"
+       cx="256"
+       cy="277.3136"
+       fx="256"
+       fy="277.3136"
+       r="255.92397"
+       gradientTransform="matrix(1.000297,-1.7712852e-7,7.2157796e-8,0.99990011,-0.07604387,-21.285889)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="747.52502"
+       y1="239.29562"
+       x2="747.52502"
+       y2="533.70251"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10"
+       x="-0.3"
+       y="-0.30000002"
+       width="1.6"
+       height="1.6">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.9999998"
+         id="feGaussianBlur10" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(20,20)">
+    <rect
+       style="fill:url(#linearGradient3);fill-opacity:1;stroke:none;stroke-width:36;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect34"
+       width="552"
+       height="552"
+       x="-20"
+       y="-20"
+       ry="276" />
+    <path
+       id="path2"
+       style="fill:url(#linearGradient35);fill-opacity:1;stroke-width:4;paint-order:markers fill stroke"
+       inkscape:transform-center-x="-9.9999997e-06"
+       inkscape:transform-center-y="160"
+       d="M 246.34234,268.75654 100.28711,461.70312 h 68.92578 l 11.44141,-27.11914 51.30468,13.7461 L 224,512 h 64 l -30.01351,-240.12381 -3.97009,3.6e-4 -18.05156,144.40079 -42.7539,-11.45703 56.56938,-134.07869 z"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke-width:4;paint-order:markers fill stroke;filter:url(#filter10)"
+       id="path1"
+       cx="256"
+       cy="255.99998"
+       rx="32"
+       ry="31.999998" />
+    <ellipse
+       style="fill:#da0e15;fill-opacity:1;stroke-width:4;paint-order:markers fill stroke"
+       id="path1-3"
+       cx="256"
+       cy="255.99998"
+       rx="16.000006"
+       ry="16.000004" />
+    <path
+       style="fill:#da0e15;fill-opacity:1;stroke-width:4;paint-order:markers fill stroke"
+       d="m 281.07179,315.42561 19.91224,-1e-5 110.72878,146.27688 -68.9265,1e-5 z"
+       id="path2-7"
+       inkscape:transform-center-x="-90.392314"
+       inkscape:transform-center-y="144.56406"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path13"
+       style="color:#000000;fill:url(#radialGradient37);-inkscape-stroke:none;paint-order:markers fill stroke"
+       d="M 256,0.1015625 C 197.47502,0.10156137 138.95061,20.032539 91.447266,59.892578 -3.5594298,139.61266 -27.714337,276.59342 34.296875,384 l 27.712891,-16 27.71289,-16 39.837894,-23 15.58789,-9 15.58789,-9 c -26.75087,-46.33385 -16.42806,-104.87537 24.55664,-139.26562 40.9847,-34.39024 100.42936,-34.39025 141.41406,0 33.97229,28.50614 46.8507,73.60131 35.03711,114.58789 l -28.85937,-8.27735 c 8.5243,-29.77508 -0.85486,-62.68117 -25.46094,-83.32812 C 292.57395,182.25627 274.2865,176.02539 256,176.02539 c -18.2865,0 -36.57395,6.23088 -51.42383,18.69141 C 174.87642,219.63784 167.33361,262.42395 186.71875,296 l 13.85547,-8 c -15.55593,-26.94365 -9.54595,-61.02904 14.28711,-81.02734 23.83305,-19.99831 58.44429,-19.99831 82.27734,0 23.83306,19.9983 29.84304,54.08369 14.28711,81.02734 l 6.92774,4 32.91015,19 31.17578,18 C 417.80606,267.74325 404.03242,189.62463 349.84766,144.1582 322.75526,121.425 289.37721,110.05664 256,110.05664 c -33.37721,0 -66.75526,11.36836 -93.84766,34.10156 -44.89002,37.66721 -62.00867,97.73984 -46.46289,152.07422 L 71.427734,308.92578 C 50.806128,237.3854 73.284452,158.67814 132.58398,108.91992 c 71.5399,-60.029095 175.29214,-60.029097 246.83204,0 C 450.9559,168.94903 468.9717,271.12301 422.27734,352 l 55.42578,32 C 539.71434,276.59343 515.55943,139.61266 420.55273,59.892578 373.04939,20.032537 314.52498,0.10156363 256,0.1015625 Z" />
+    <circle
+       style="fill:none;stroke:#da0e15;stroke-width:32;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path3"
+       cx="256"
+       cy="256"
+       r="260" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="https://healingdrawing.github.io/info/license/fpl.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

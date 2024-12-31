@@ -47,4 +47,4 @@ def create_hue_frames(input_file, output_gif, hue_steps=36):
 
 
 # Usage
-create_hue_frames("day7.png", "day7.gif")
+create_hue_frames("trip.png", "dope.gif")

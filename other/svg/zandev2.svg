@@ -30,16 +30,16 @@
      inkscape:deskcolor="#3f3f3f"
      inkscape:document-units="px"
      labelstyle="default"
-     inkscape:zoom="2.9775825"
-     inkscape:cx="6.548937"
-     inkscape:cy="12.090345"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="22.627417"
+     inkscape:cy="23.688077"
      inkscape:window-width="1536"
      inkscape:window-height="840"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      showborder="true"
      inkscape:clip-to-page="false"
      showguides="true"
@@ -60,7 +60,7 @@
        dotted="false"
        gridanglex="30"
        gridanglez="30"
-       visible="true" />
+       visible="false" />
     <sodipodi:guide
        position="-44.000001,18"
        orientation="1,0"
@@ -158,7 +158,7 @@
            id="meshpatch312">
           <stop
              path="c 20,0  40,0  60,0"
-             style="stop-color:#ffff00;stop-opacity:1"
+             style="stop-color:#000000;stop-opacity:1"
              id="stop312" />
           <stop
              path="c 0,16  0,32  0,48"

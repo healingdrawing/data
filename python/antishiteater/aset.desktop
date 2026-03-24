@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/usr/bin/python /mnt/sda3/development/codehost/data/python/antishiteater/aset.py
+GenericName[en_US]=
+GenericName=
+Icon=system-run
+MimeType=
+Name[en_US]=aset
+Name=aset
+Path=/tmp
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,75 @@
+<html>
+    <body>
+        <table style="width:800px;">
+            <tbody>
+                <tr>
+                    <td colspan="2"><button onclick="md_creator()">vscode codedox haxe to md file shallow docs generator</button></td>
+                </tr>
+                <tr>
+                    <td style="height:400px;">
+                        <textarea id="incoming" title="haxe with codedox syntax" style="width:100%;height: 100%;border:none;"></textarea>
+                    </td>
+                    <td style="height:400px;">
+                        <textarea id="output" title="md result sytnax" style="width:100%; height:100%;border:none;"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+    <script>
+    function monospace_creator(x){
+        var rez = x.split("\t").join(" ");
+        rez = rez.split("\n").join("  \n");
+        rez = rez.split("\v").join(" ");
+        rez = rez.split("\f").join(" ");
+        rez = rez.split("\r").join(" ");
+        rez = rez.split("   ").join("  ");
+        rez = rez.split("   ").join("  ");
+        rez = rez.split("   ").join("  ");
+        return rez;
+    }
+    function text_extractor(x){
+        var rez = x.split("@param")[0];
+        rez = rez.split("@return")[0];
+        rez = rez.split("*/")[0];
+        if (rez.slice(-1) == "*") { rez = rez.slice(0, -1); }
+        rez = rez.split("<").join("&lt;");
+        rez = rez.split(">").join("&gt;");
+        rez = monospace_creator(rez);
+        return rez;
+    }
+    function method_extractor(x){
+        // console.log(x);
+        var rez = x.split("*/",2)[1];
+        console.log(x.split("*/",2)[1].split("{")[0].split(";")[0]);
+        rez = rez.split("{")[0];
+        rez = rez.split(";")[0]; //for first string declare package
+        // rez = rez.replace("<","&lt;");
+        // rez = rez.replace(">","&gt;");
+        rez = monospace_creator(rez);
+        rez = "```haxe  \n"+rez+"\n```  ";
+        return rez;
+    }
+    function md_builder(texts,methods){
+        var rez = "";
+        for(i=0;i<texts.length;i++){
+            if (texts[i] != "" && methods[i] != ""){
+                rez+="\n---\n"+methods[i]+"  \n"+texts[i];
+            }
+        }return rez;
+    }
+    function md_creator(){
+        var haxecode = document.getElementById("incoming").value;
+        var methods = []; //method syntax
+        var texts = []; //description text
+        var atext = haxecode.split("/**") ;
+        for (i=1;i<atext.length;i++){
+            texts.push(text_extractor(atext[i]));
+            methods.push(method_extractor(atext[i]));
+        }
+        var md = md_builder(texts,methods);
+        
+        document.getElementById("output").value = md;
+    }
+    </script>
+</html>
